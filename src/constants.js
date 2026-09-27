@@ -18,7 +18,7 @@ export const GRADE_COLORS = {
 export const GRADE_VALUES = { A: 10, B: 8, C: 6, D: 4, F: 0 };
 
 export const INITIAL_STUDENTS = [
-  { id: "STU-001", first: "Rahul",  last: "Verma",  year: "2nd year", course: "Computer Science", grade: "A", att: 95, email: "rahul.v@college.edu" },
+  { id: "STU-001", first: "Navya",  last: "kushwaha",  year: "1st year", course: "Computer Science", grade: "A", att: 85, email: "navya.k@college.edu" },
   { id: "STU-002", first: "Priya",  last: "Singh",  year: "3rd year", course: "Mathematics",      grade: "B", att: 88, email: "priya.s@college.edu" },
   { id: "STU-003", first: "Aanya",  last: "Sharma", year: "1st year", course: "Physics",           grade: "A", att: 97, email: "aanya.sh@college.edu" },
   { id: "STU-004", first: "Karan",  last: "Mehta",  year: "4th year", course: "Electronics",      grade: "C", att: 76, email: "karan.m@college.edu" },
